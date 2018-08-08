@@ -1,6 +1,6 @@
 ﻿# このソフトウェアについて
 
-JavaScript(ES6)でlet, constを使う。[demo](https://ytyaru.github.io/JS.Class.20180808080000/)
+JavaScript(ES6)でlet, constを使う。[demo](https://ytyaru.github.io/JS.ES6.Syntax.let_const.20180808140000)
 
 # 概要
 
